@@ -46,7 +46,7 @@ handling core business logic such as real-time translation, chat room management
 
 ### Period
 
-> 2025-11-04 ~ 2025-11-18
+> 2025-11-04 ~ 2025-11-22
 
 <br/>
 
