@@ -46,7 +46,7 @@ handling core business logic such as real-time translation, chat room management
 
 ### Period
 
-> 2025-11-04 15:00 ~ 2025-11-25 00:00 (UTC+9)
+> 2025-11-04 ~ 2025-11-18
 
 <br/>
 
@@ -65,6 +65,7 @@ handling core business logic such as real-time translation, chat room management
 2. Real-time Chat Service using WebSockets  
 3. Message Translation Service powered by DeepL  
 4. New Chat Notification Service
+5. Multilingual Support Using i18next
 
 <br/>
 
@@ -108,6 +109,7 @@ handling core business logic such as real-time translation, chat room management
 <div align="start">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">  
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 <br/>
@@ -118,9 +120,10 @@ handling core business logic such as real-time translation, chat room management
 
 <br/>
 
-## Screen
+## 🖥️ Screen
 
 |  |  |
 | :---: | :---: |
-| <img width="300" height="700" src="https://github.com/user-attachments/assets/62cf2c98-f8a0-4334-8ade-ffed8bc2e1b3"/><br/><br/>Login | <img width="300" height="700" src="https://github.com/user-attachments/assets/e568f60c-1d3c-416e-83fc-d90e1bb81437"/><br/><br/>Main |
-| <img width="300" height="700" src="https://github.com/user-attachments/assets/230f57a7-f731-47dc-8713-7825edd527a3"/><br/><br/>Chat | <img width="300" height="700" src="https://github.com/user-attachments/assets/917e7803-3c45-4fa7-bd79-b26f9a892f16"/><br/><br/>Settings |
+| <img width="300" height="700" src="https://github.com/user-attachments/assets/62cf2c98-f8a0-4334-8ade-ffed8bc2e1b3"/><br/><br/>**Login**<br/>Users can quickly start using the service via Google social login without a separate sign-up process. | <img width="300" height="700" src="https://github.com/user-attachments/assets/e568f60c-1d3c-416e-83fc-d90e1bb81437"/><br/><br/>**Main**<br/>View chat room list, receive real-time chat notifications, and start new chats. |
+| <img width="300" height="700" src="https://github.com/user-attachments/assets/230f57a7-f731-47dc-8713-7825edd527a3"/><br/><br/>**Chat**<br/>Exchange messages with others in the selected language. | <img width="300" height="700" src="https://github.com/user-attachments/assets/917e7803-3c45-4fa7-bd79-b26f9a892f16"/><br/><br/>**Settings**<br/>Check personal information, log out, or delete your account. |
+
